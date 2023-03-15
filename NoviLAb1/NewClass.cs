@@ -6,6 +6,9 @@ namespace NoviLAb1
 {
     class NewClass
     {
-        return 1;
+        int metoda()
+        {
+            return 1;
+        }
     }
 }
