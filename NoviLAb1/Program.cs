@@ -7,6 +7,7 @@ namespace NoviLAb1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World2!");
+            Console.WriteLine("Hello world-jerko!");
         }
     }
 }
