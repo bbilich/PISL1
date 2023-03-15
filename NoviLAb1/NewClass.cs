@@ -8,7 +8,7 @@ namespace NoviLAb1
     {
         int metoda()
         {
-            return 1;
+            return 2;
         }
     }
 }
